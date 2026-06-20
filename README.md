@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Hansel
 
-<!--
-**pntz20/pntz20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-pntz20.github.io/hansel--portfolio-blue?style=for-the-badge&logo=github)](https://pntz20.github.io/hansel-portfolio)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer who loves building web applications and learning new technologies. Check out my portfolio to see my work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js
+- **Tools:** Git, GitHub, VS Code
+
+## 📂 Featured Projects
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| [Portfolio Site](https://github.com/pntz20/hansel-portfolio) | My personal portfolio website | [View Live](https://pntz20.github.io/hansel-portfolio) |
+| [Dashboard Viewer](https://github.com/pntz20/P1) | Google Sheets CSV viewer | Coming soon |
+
+## 📜 Certifications
+- _Add your certifications here_
+
+## 📊 GitHub Stats
+![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pntz20&show_icons=true&theme=default)
+
+---
+
+⭐️ From [pntz20](https://github.com/pntz20)
